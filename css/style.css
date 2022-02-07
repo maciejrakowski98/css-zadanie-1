@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background-color: #808080;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: #fea500;
+    margin: 10px;
+}
